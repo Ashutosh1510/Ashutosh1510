@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ashutosh1510/Ashutosh1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 Master's degree in Robotics from University of Maryland.<br>🌱 I’m interested in Robot perception, Deep Learning and Computer vision. <br>👯 I am open to collaborating on projects involving computer vision, deep learning, and robotics applications.
 
