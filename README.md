@@ -74,7 +74,7 @@
 
 ## 🕹️ Pac-Man Commit Animation  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh1510/Ashutosh1510/output/github-contribution-grid-pacman.svg" />
+  <img src="https://raw.githubusercontent.com/Ashutosh1510/main/github-contribution-grid-pacman.svg" />
 </div>
 
 ---
