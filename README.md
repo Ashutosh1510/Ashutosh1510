@@ -11,6 +11,7 @@
 🤖 Passionate about **Computer Vision, Deep Learning, and Robotics**  
 💡 Exploring AI applications in **Autonomous Systems & Perception**  
 🤝 Open to **collaborations** in ML, AI, and Robotics  
+🚀 **"Striving to push the boundaries of AI and Robotics!"** 🚀  
 
 ---
 
@@ -53,13 +54,13 @@
 </p>
 
 ---
-
+<!--- 
 ## 📌 Featured Projects  
 🚀 **[3D Object Reconstruction & Pose Estimation](https://github.com/Ashutosh1510/3D-Object-Reconstruction)** - Deep learning-based 3D shape prediction  
 🔍 **[Monocular Visual Odometry](https://github.com/Ashutosh1510/Monocular-VO)** - Estimating motion using Transformers  
 🛣️ **[Lane Detection & Turn Prediction](https://github.com/Ashutosh1510/Lane-Detection)** - Real-time lane detection  
 
-🌟 **More Projects:** [🔗 GitHub Repos](https://github.com/Ashutosh1510?tab=repositories)  
+🌟 **More Projects:** [🔗 GitHub Repos](https://github.com/Ashutosh1510?tab=repositories)  --->
 
 ---
 
@@ -73,10 +74,9 @@
 
 ## 🕹️ Pac-Man Commit Animation  
 <div align="center">
-  <img src="https://github.com/Ashutosh1510/Ashutosh1510/blob/output/github-contribution-grid-pacman.svg" />
+  <img src="https://raw.githubusercontent.com/Ashutosh1510/Ashutosh1510/output/github-contribution-grid-pacman.svg" />
 </div>
 
 ---
-
-🚀 **"Striving to push the boundaries of AI and Robotics!"** 🚀  
-[![](https://visitcount.itsvg.in/api?id=Ashutosh1510&icon=2&color=1)](https://visitcount.itsvg.in)
+👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=Ashutosh1510&color=blue)
