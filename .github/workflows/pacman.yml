@@ -1,25 +1,20 @@
 name: Generate Pac-Man Contribution Grid
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs once a day
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate Pac-Man Grid
-        uses: Platane/snk@master
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v2
         with:
           github_user_name: Ashutosh1510
-          outputs: |
-            github-contribution-grid-pacman.svg
-
-      - name: Push the Pac-Man file
-        uses: stefanzweifel/git-auto-commit-action@v4
+          outputs: "github-contribution-grid-pacman.svg"
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Updated Pac-Man Contribution Grid"
-
+          commit_message: "Update Pac-Man commit grid"
+          branch: output
