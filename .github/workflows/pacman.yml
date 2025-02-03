@@ -19,7 +19,10 @@ jobs:
           outputs: "github-contribution-grid-pacman.svg"
 
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update Pac-Man commit grid"
-          branch: output
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout main  # Ensure you're on the main branch
+          git add github-contribution-grid-pacman.svg
+          git commit -m "Update Pac-Man commit grid" || echo "No changes to commit"
+          git push origin main
