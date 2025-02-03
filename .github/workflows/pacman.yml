@@ -9,12 +9,17 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pac-Man Contribution Grid
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Ashutosh1510
+          github_user_name: ${{ github.repository_owner }}
           outputs: "github-contribution-grid-pacman.svg"
-      - uses: stefanzweifel/git-auto-commit-action@v4
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update Pac-Man commit grid"
           branch: output
