@@ -72,10 +72,9 @@
 
 ---
 
-## 🕹️ Pac-Man Commit Animation  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh1510/main/github-contribution-grid-pacman.svg" />
-</div>
+## 🕹️ Pac-Man Animation  
+![Pac-Man eating contributions](https://raw.githubusercontent.com/Ashutosh1510/Ashutosh1510/main/github-contribution-grid-pacman.svg)
+
 
 ---
 👀 Profile Views  
