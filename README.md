@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Ashutosh+Reddy!" />
 </h1>
 
-</div>
 
 ## 🚀 About Me  
 🎓 Master's in Robotics | University of Maryland  
@@ -72,10 +71,12 @@
 
 ---
 
-## 🕹️ Pac-Man Animation  
+## 🕹️ Contributions
 ![Pac-Man eating contributions](https://raw.githubusercontent.com/Ashutosh1510/Ashutosh1510/main/github-contribution-grid-pacman.svg)
 
 
 ---
 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashutosh1510&color=blue)
+
+</div>
