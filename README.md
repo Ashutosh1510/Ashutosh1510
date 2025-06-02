@@ -60,7 +60,7 @@
 🛣️ **[Lane Detection & Turn Prediction](https://github.com/Ashutosh1510/Lane-Detection)** - Real-time lane detection  
 
 🌟 **More Projects:** [🔗 GitHub Repos](https://github.com/Ashutosh1510?tab=repositories)  --->
-
+<!--
 ---
 
 ## 📊 GitHub Stats  
@@ -69,7 +69,8 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh1510&theme=gotham&hide_border=false&show_icons=true"/>
 </div>
 
----
+--->
+
 
 ## 🕹️ Contributions
 ![Pac-Man eating contributions](https://raw.githubusercontent.com/Ashutosh1510/Ashutosh1510/main/github-contribution-grid-pacman.svg)
