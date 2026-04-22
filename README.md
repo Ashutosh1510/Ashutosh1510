@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Ashutosh+Reddy!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Ashutosh+Reddy!" alt="Hi There! I'm Ashutosh Reddy!" />
 </h1>
 
 
@@ -53,24 +53,6 @@
 </p>
 
 ---
-<!--- 
-## 📌 Featured Projects  
-🚀 **[3D Object Reconstruction & Pose Estimation](https://github.com/Ashutosh1510/3D-Object-Reconstruction)** - Deep learning-based 3D shape prediction  
-🔍 **[Monocular Visual Odometry](https://github.com/Ashutosh1510/Monocular-VO)** - Estimating motion using Transformers  
-🛣️ **[Lane Detection & Turn Prediction](https://github.com/Ashutosh1510/Lane-Detection)** - Real-time lane detection  
-
-🌟 **More Projects:** [🔗 GitHub Repos](https://github.com/Ashutosh1510?tab=repositories)  --->
-<!--
----
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh1510&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh1510&theme=gotham&hide_border=false&show_icons=true"/>
-</div>
-
---->
-
 
 ## 🕹️ Contributions
 ![Pac-Man eating contributions](https://raw.githubusercontent.com/Ashutosh1510/Ashutosh1510/main/github-contribution-grid-pacman.svg)

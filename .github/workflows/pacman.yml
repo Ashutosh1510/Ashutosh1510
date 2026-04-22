@@ -5,12 +5,15 @@ on:
     - cron: "0 0 * * *" # Runs once a day
   workflow_dispatch: # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Pac-Man Contribution Grid
         uses: Platane/snk/svg-only@v3
