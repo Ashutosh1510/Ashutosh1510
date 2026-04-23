@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Ashutosh+Reddy!" alt="Hi There! I'm Ashutosh Reddy!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Ashutosh+Reddy!&v=1" alt="Hi There! I'm Ashutosh Reddy!" />
 </h1>
 
 
